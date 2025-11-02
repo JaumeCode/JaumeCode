@@ -12,7 +12,7 @@
 - HTML, CSS, JavaScript  
 - Python, SQL 
 - Git, Figma
-- Aprendiendo Herramientas de diseño.
+- Aprendiendo Herramientas de diseño y Frameworks
 
 ---
 
@@ -25,7 +25,7 @@
 
 ### 📫 Cómo contactarme
 - 💼 Portfolio  
-- 📧 @vanacloigjaume@gmail.com
+- 📧 vanacloigjaume@gmail.com
 
 ---
 
