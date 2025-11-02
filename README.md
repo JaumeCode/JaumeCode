@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy Jaume Vanacloig ,conocido por JaumeCode
 
-<!--
-**JaumeCode/JaumeCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Estudiante de **Desarrollo de Aplicaciones Web (DAW)**  
+🔧 Grado medio en **Sistemas Microinformáticos y Redes**  
+🚀 Apasionado por la **programación, la inteligencia artificial y la tecnología**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 Tecnologías que uso
+- HTML, CSS, JavaScript  
+- Python, SQL 
+- Git, Figma
+- Aprendiendo Herramientas de diseño.
+
+---
+
+### 📂 Proyectos destacados
+- 🌤️ *Aplicacion del tiempo interactiva*  
+- 🎰 *Casino en python*  
+- 🏧*App de cajero*
+
+---
+
+### 📫 Cómo contactarme
+- 💼 Portfolio  
+- 📧 @vanacloigjaume@gmail.com
+
+---
+
+⭐ *“Cada línea de código es una oportunidad para aprender algo nuevo.”*
