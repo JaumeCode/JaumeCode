@@ -1,3 +1,5 @@
+![JaumeCode Banner](JaumeCode.png)
+
 # 👋 ¡Hola! Soy Jaume Vanacloig ,conocido por JaumeCode
 
 💻 Estudiante de **Desarrollo de Aplicaciones Web (DAW)**  
