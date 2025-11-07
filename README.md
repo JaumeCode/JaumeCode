@@ -1,4 +1,4 @@
-![JaumeCode Banner](banner_JaumeCode.png)
+![JaumeCode Banner](banner_portada.png)
 
 # 👋 ¡Hola! Soy Jaume Vanacloig ,conocido por JaumeCode
 
