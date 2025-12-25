@@ -1,32 +1,33 @@
 ![JaumeCode Banner](banner_portada.png)
 
-# 👋 ¡Hola! Soy Jaume Vanacloig ,conocido por JaumeCode
+# 👋 Hi! I'm Jaume Vanacloig, also known as JaumeCode
 
-💻 Estudiante de **Desarrollo de Aplicaciones Web (DAW)**  
-🔧 Grado medio en **Sistemas Microinformáticos y Redes**  
-🚀 Apasionado por la **programación, la inteligencia artificial y la tecnología**
+💻 DAW (Web Application Development) student  
+🔧 Intermediate degree in Microcomputer Systems and Networks  
+🚀 Passionate about programming, artificial intelligence, and technology
 
 ---
 
-### 🧠 Tecnologías que uso
+### 🧠 Technologies I use
 - HTML, CSS, JavaScript  
-- Python, SQL 
-- Git, Figma
-- Aprendiendo Herramientas de diseño y Frameworks
+- Python, SQL  
+- Git, Figma  
+- Currently learning design tools and frameworks
 
 ---
 
-### 📂 Proyectos destacados
-- 🌤️ *Aplicacion del tiempo interactiva*  
-- 🎰 *Casino en python*  
-- 🏧*App de cajero*
+### 📂 Featured projects
+- 🌤️ Interactive weather application  
+- 🎰 Casino in Python  
+- 🏧 ATM application
 
 ---
 
-### 📫 Cómo contactarme
+### 📫 How to reach me
 - 💼 Portfolio  
 - 📧 vanacloigjaume@gmail.com
 
 ---
 
-⭐ *“Cada línea de código es una oportunidad para aprender algo nuevo.”*
+⭐ *“Every line of code is an opportunity to learn something new.”*
+
