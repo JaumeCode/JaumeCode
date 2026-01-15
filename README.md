@@ -1,6 +1,6 @@
 ![JaumeCode Banner](banner_portada.png)
 
-🌐 jaumecode.com 
+🌐 www.jaumecode.com 
 
 # 👋 Hi! I'm Jaume Vanacloig, also known as JaumeCode
 
